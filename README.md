@@ -16,3 +16,6 @@ This project is also a development of the previous project [hani-web](https://gi
 by using a new platform in the form of a web, it hoped that this project can be used properly,
 of course there is still much to be developed to meet all these needs,
 I as a developer will develop my knowledge to make this project getting better.
+
+# 📸 Preview
+<img src="/img/preview.png">
