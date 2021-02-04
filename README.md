@@ -12,7 +12,7 @@ alumni books and alumni communities that other alumni can create and participate
 
 # 📋 About Project
 This project was developed to meet the place for sharing information among alumni of my alma mater,
-This project is also a development of the previous project [hani-web](https://github.com/IlhamriSKY/Hani-halo-alumni-Web)
+This project is also a development of the previous project [hani-web](https://github.com/IlhamriSKY/Hani-Data-Web-And-API)
 by using a new platform in the form of a web, it hoped that this project can be used properly,
 of course there is still much to be developed to meet all these needs,
 I as a developer will develop my knowledge to make this project getting better.
