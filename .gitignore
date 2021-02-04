@@ -1,0 +1,9 @@
+sys/config/*
+public/feelings
+public/gifts
+public/img
+public/photo
+public/stickers
+public/tmp
+
+.htaccess

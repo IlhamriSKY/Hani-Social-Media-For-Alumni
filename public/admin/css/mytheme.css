@@ -1,0 +1,33 @@
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+.light-gray-bg {
+
+    background: #F5F7FB;
+}
+
+.form-error-message {
+
+    color: #FC4B6C;
+    font-weight: 600;
+}
+
+.input-form .btn {
+
+    padding: 10px 12px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.footable-editing {
+
+    text-align: left;
+}
+
+.more-items {
+
+    border-top: 1px solid #eceeef;
+}
